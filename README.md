@@ -63,12 +63,9 @@ Developed collaboratively as a team project.
 
 **Contributors**
 - Najwa Zhafarina Alyani Wilujeng
-- [Team Member]
-- [Team Member]
+- Lidya Nadhira
+- Nabila Amalia Syafujinur
 
-## Screenshots
-
-Add project screenshots here.
 
 ## Getting Started
 
